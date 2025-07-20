@@ -170,9 +170,3 @@ If you find this project helpful:
 * ⭐ Star the repo
 * 🛠️ Fork and contribute
 * 🗣️ Share your feedback via issues
-
-```
-
----
-
-```
